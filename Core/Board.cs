@@ -16,7 +16,7 @@ public class Board
         Grid[1, 0] = new Knight { IsWhite = true, Position = new Point(1, 0) };
         Grid[2, 0] = new Bishop { IsWhite = true, Position = new Point(2, 0) };
         //Grid[3, 0] = new PieceQueen { IsWhite = true, Position = new Point(3, 0) };
-        //Grid[4, 0] = new PieceKing { IsWhite = true, Position = new Point(4, 0) };
+        Grid[4, 0] = new PieceKing { IsWhite = true, Position = new Point(4, 0) };
         Grid[5, 0] = new Bishop { IsWhite = true, Position = new Point(5, 0) };
         Grid[6, 0] = new Knight { IsWhite = true, Position = new Point(6, 0) };
         Grid[7, 0] = new Rook { IsWhite = true, Position = new Point(7, 0) };

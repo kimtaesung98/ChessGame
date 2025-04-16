@@ -1,0 +1,5 @@
+C:\Users\kim25\source\repos\2025\university-projects\semester_1\subject_game_project\ChessGame\obj\Debug\net6.0\ChessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kim25\source\repos\2025\university-projects\semester_1\subject_game_project\ChessGame\obj\Debug\net6.0\ChessGame.AssemblyInfoInputs.cache
+C:\Users\kim25\source\repos\2025\university-projects\semester_1\subject_game_project\ChessGame\obj\Debug\net6.0\ChessGame.AssemblyInfo.cs
+C:\Users\kim25\source\repos\2025\university-projects\semester_1\subject_game_project\ChessGame\obj\Debug\net6.0\ChessGame.csproj.CoreCompileInputs.cache
+C:\Users\kim25\source\repos\2025\university-projects\semester_1\subject_game_project\ChessGame\obj\Debug\net6.0\ChessGame.sourcelink.json

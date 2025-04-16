@@ -3,19 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\ChessGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81F64E2F-2BD1-42C2-B98E-FAA52F737D32}|..\\Core\\Core.csproj|c:\\users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\core\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26926340-8E0A-403B-88CC-FBCFB710CCB8}|ChessGame.csproj|c:\\users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\chessgame\\core\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26926340-8E0A-403B-88CC-FBCFB710CCB8}|ChessGame.csproj|solutionrelative:core\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81F64E2F-2BD1-42C2-B98E-FAA52F737D32}|..\\Core\\Core.csproj|c:\\users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\core\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26926340-8E0A-403B-88CC-FBCFB710CCB8}|ChessGame.csproj|c:\\users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\chessgame\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{26926340-8E0A-403B-88CC-FBCFB710CCB8}|ChessGame.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81F64E2F-2BD1-42C2-B98E-FAA52F737D32}|..\\Core\\Core.csproj|c:\\users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\core\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26926340-8E0A-403B-88CC-FBCFB710CCB8}|ChessGame.csproj|c:\\users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\chessgame\\core\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26926340-8E0A-403B-88CC-FBCFB710CCB8}|ChessGame.csproj|solutionrelative:core\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81F64E2F-2BD1-42C2-B98E-FAA52F737D32}|..\\Core\\Core.csproj|c:\\users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\core\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26926340-8E0A-403B-88CC-FBCFB710CCB8}|ChessGame.csproj|c:\\users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\chessgame\\core\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26926340-8E0A-403B-88CC-FBCFB710CCB8}|ChessGame.csproj|solutionrelative:core\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81F64E2F-2BD1-42C2-B98E-FAA52F737D32}|..\\Core\\Core.csproj|c:\\users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\core\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26926340-8E0A-403B-88CC-FBCFB710CCB8}|ChessGame.csproj|c:\\users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\chessgame\\core\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26926340-8E0A-403B-88CC-FBCFB710CCB8}|ChessGame.csproj|solutionrelative:core\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26926340-8E0A-403B-88CC-FBCFB710CCB8}|ChessGame.csproj|c:\\users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\chessgame\\core\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26926340-8E0A-403B-88CC-FBCFB710CCB8}|ChessGame.csproj|solutionrelative:core\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26926340-8E0A-403B-88CC-FBCFB710CCB8}|ChessGame.csproj|c:\\users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\chessgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,71 +43,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Bishop.cs",
-              "DocumentMoniker": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\Core\\Bishop.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Bishop.cs",
-              "ToolTip": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\Core\\Bishop.cs",
-              "RelativeToolTip": "..\\Core\\Bishop.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAAMAAAAAAAAAA==",
+              "Title": "Rook.cs",
+              "DocumentMoniker": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\ChessGame\\Core\\Rook.cs",
+              "RelativeDocumentMoniker": "Core\\Rook.cs",
+              "ToolTip": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\ChessGame\\Core\\Rook.cs",
+              "RelativeToolTip": "Core\\Rook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T10:35:56.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Knight.cs",
-              "DocumentMoniker": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\Core\\Knight.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Knight.cs",
-              "ToolTip": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\Core\\Knight.cs",
-              "RelativeToolTip": "..\\Core\\Knight.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T10:31:40.295Z",
+              "WhenOpened": "2025-04-14T10:58:21.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Rook.cs",
-              "DocumentMoniker": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\Core\\Rook.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Rook.cs",
-              "ToolTip": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\Core\\Rook.cs",
-              "RelativeToolTip": "..\\Core\\Rook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\ChessGame\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\ChessGame\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-04-14T10:58:20.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\ChessGame\\Core\\Piece.cs",
+              "RelativeDocumentMoniker": "Core\\Piece.cs",
+              "ToolTip": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\ChessGame\\Core\\Piece.cs",
+              "RelativeToolTip": "Core\\Piece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T10:20:28.762Z",
+              "WhenOpened": "2025-04-14T10:58:19.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Pawn.cs",
-              "DocumentMoniker": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\Core\\Pawn.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Pawn.cs",
-              "ToolTip": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\Core\\Pawn.cs",
-              "RelativeToolTip": "..\\Core\\Pawn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\ChessGame\\Core\\Pawn.cs",
+              "RelativeDocumentMoniker": "Core\\Pawn.cs",
+              "ToolTip": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\ChessGame\\Core\\Pawn.cs",
+              "RelativeToolTip": "Core\\Pawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T05:34:00.955Z",
+              "WhenOpened": "2025-04-14T10:58:19.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Piece.cs",
-              "DocumentMoniker": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\Core\\Piece.cs",
-              "RelativeDocumentMoniker": "..\\Core\\Piece.cs",
-              "ToolTip": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\Core\\Piece.cs",
-              "RelativeToolTip": "..\\Core\\Piece.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\ChessGame\\Core\\Knight.cs",
+              "RelativeDocumentMoniker": "Core\\Knight.cs",
+              "ToolTip": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\ChessGame\\Core\\Knight.cs",
+              "RelativeToolTip": "Core\\Knight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T05:30:20.296Z",
+              "WhenOpened": "2025-04-14T10:58:18.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Bishop.cs",
+              "DocumentMoniker": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\ChessGame\\Core\\Bishop.cs",
+              "RelativeDocumentMoniker": "Core\\Bishop.cs",
+              "ToolTip": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\ChessGame\\Core\\Bishop.cs",
+              "RelativeToolTip": "Core\\Bishop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:58:17.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kim25\\source\\repos\\2025\\university-projects\\semester_1\\subject_game_project\\ChessGame\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
